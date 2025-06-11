@@ -1,0 +1,5 @@
+SECRET_KEY = 'mtsicomm_molina'
+DB_USER = 'mtsicomm_molina'
+DB_PASSWORD = '/**//*07bd#SQL21'
+DB_HOST = 'localhost'
+DB_NAME = 'mtsicomm_mtsi_DESA'
